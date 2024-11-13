@@ -1,3 +1,9 @@
+
+# This is a project that i followed step by step in order to learn how to create the template for a project for ML and create the pipeline for CICD, everything is running correctly and the video can be found here:
+
+https://www.youtube.com/watch?v=NLDS_w08yKM
+
+
 # End-to-end-Wines-quality
 
 End-to-End-Wine-Quality-Prediction

@@ -1,8 +1,5 @@
 # End-to-end-Wines-quality
 
-# ECR
-767828749425.dkr.ecr.eu-north-1.amazonaws.com/mlproje
-
 End-to-End-Wine-Quality-Prediction
 Workflows
 Update config.yaml
